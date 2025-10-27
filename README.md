@@ -40,7 +40,7 @@ When I’m not debugging or testing scripts, I’m studying network architecture
 ## 📡 Links & Comms  
 🌐 **Portfolio:** [bbcharming.github.io](https://bbcharming.github.io)  
 💼 **LinkedIn:** *coming online*  
-🧰 **Upwork:** [](https://www.upwork.com/freelancers/~01d515914f8f5f9dae)  
+🧰 **Upwork:** [my profile](https://www.upwork.com/freelancers/~01d515914f8f5f9dae)  
 🎯 **Fiverr:** *deploying soon*  
 📂 **Projects Repo:** [github.com/BBCharming/Projects](https://github.com/BBCharming/Projects)
 
