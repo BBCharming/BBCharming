@@ -30,7 +30,7 @@ When I’m not debugging or testing scripts, I’m studying network architecture
 
 ## ⚡ Current Operations  
 - 🏫 Studying Computer Science at **The Copperbelt University**
-- 📚 Advancing through **HCIA Level 1 – Networking & Cyber Fundamentals**  
+- 📚 Advancing through **HCIA Level 1 – Datacom & Security**  
 - 🔬 Developing small automation utilities under the **Projects/Project3** repo  
 - 🧩 Planning the **Mwaba AI Assistant** (local voice intelligence project)  
 - 🛠️ Documenting “Operation Spectre” — a roadmap toward professional-grade tools  
@@ -40,7 +40,7 @@ When I’m not debugging or testing scripts, I’m studying network architecture
 ## 📡 Links & Comms  
 🌐 **Portfolio:** [bbcharming.github.io](https://bbcharming.github.io)  
 💼 **LinkedIn:** *coming online*  
-🧰 **Upwork:** *in progress*  
+🧰 **Upwork:** [](https://www.upwork.com/freelancers/~01d515914f8f5f9dae)  
 🎯 **Fiverr:** *deploying soon*  
 📂 **Projects Repo:** [github.com/BBCharming/Projects](https://github.com/BBCharming/Projects)
 
@@ -48,7 +48,8 @@ When I’m not debugging or testing scripts, I’m studying network architecture
 
 ## ⚙️ Motto  
 > *“Security is not a feature — it’s the foundation.”*
-> "The best at what I do. If I'm not the best, then I must be one of the best." ~Benjamin Chaambwa~
+> 
+> *"The best at what I do. If I'm not the best, then I must be one of the best."*
 > *Operation Spectre: Always Active.*
 
 ---
